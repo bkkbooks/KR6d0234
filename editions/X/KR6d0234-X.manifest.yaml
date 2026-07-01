@@ -1,0 +1,146 @@
+canonical_identifier: bkk:krp/KR6d0234/X/v1
+canonical_location: https://kanripo.org/bkk/KR6d0234/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 圓頓宗眼
+  identifiers:
+    krp: KR6d0234
+    cbeta: X57n0958
+    cbeta_old_id: X57n0958
+    authorityid: CA0003864
+    json_key: X0958
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X57/X57n0958.xml
+    old_id: X57n0958
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0234_000-X.yaml, hash: 'sha256:0a5a51587bfedd05a17316750b55e2f25994c4a12f0ebfef54095a1f23c74c9b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0234_000-X.markers.yaml, hash: 'sha256:aeccef85b266e34fb4f5f6014e4b6cfac0c49b7feae564613cfd83c5fd5e84dd'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6d0234_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 958-A 圓頓宗眼(并序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0234_X_000-mulu-2
+    span:
+    - front
+    - 278
+    - 278
+  label: 圓頓宗眼目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0234_X_000-mulu-3
+    span:
+    - front
+    - 304
+    - 304
+  label: 宗眼
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0234_X_000-mulu-4
+    span:
+    - front
+    - 1346
+    - 1346
+  label: 原心
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0234_X_000-mulu-5
+    span:
+    - front
+    - 1565
+    - 1565
+  label: 究性
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0234_X_000-mulu-6
+    span:
+    - front
+    - 1880
+    - 1880
+  label: 明道
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0234_X_000-mulu-7
+    span:
+    - front
+    - 2358
+    - 2358
+  label: 窮徧
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0234_X_000-mulu-8
+    span:
+    - front
+    - 2601
+    - 2601
+  label: 談具
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0234_X_000-mulu-9
+    span:
+    - front
+    - 2908
+    - 2908
+  label: 所傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0234_X_000-mulu-10
+    span:
+    - front
+    - 3592
+    - 3592
+  label: 三觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0234_X_000-mulu-11
+    span:
+    - front
+    - 5057
+    - 5057
+  label: 正宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0234_X_000-mulu-12
+    span:
+    - front
+    - 5421
+    - 5421
+  label: 修性
+  type: mulu
+  level: 1
+hash: sha256:6688bf6bf3297bfc9c642ff8b19166bac0732be24e410796e9be637bf4eea943
