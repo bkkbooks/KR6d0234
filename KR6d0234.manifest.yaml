@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6d0234/v1
 canonical_location: https://kanripo.org/bkk/KR6d0234/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 圓頓宗眼
   identifiers:
@@ -21,9 +21,9 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0234_000.yaml, hash: 'sha256:0a5a51587bfedd05a17316750b55e2f25994c4a12f0ebfef54095a1f23c74c9b'}
+  - {seq: 0, filename: KR6d0234_000.yaml, hash: 'sha256:d7d9c14a32c1fbd9dd641f722c63f063e350ec71676b08a90d06c0865661cad1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0234_000.markers.yaml, hash: 'sha256:487e33c65616907f9ca05cd66a537e98ba22d0397e381f82909d762a35a2c327'}
+  - {seq: 0, role: markers, filename: assets/KR6d0234_000.markers.yaml, hash: 'sha256:31b849132f4960561c0f658075ed09e6cf11c016670bfee5227ebb1c71640a02'}
 table_of_contents:
 - ref:
     seq: 0
@@ -145,4 +145,7 @@ table_of_contents:
   label: 修性
   type: mulu
   level: 1
-hash: sha256:3132555dad6110e7134d4d5309440bc11e4b2478b0884d67b9fc8855d644ee0f
+hash: sha256:ddbb5cd7fbb090e323a4ee4f40fe34e162eba7a7c0a0bd3e0742da6c3b3b1386
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
