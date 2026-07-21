@@ -21,15 +21,15 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0234_000.yaml, hash: 'sha256:d7d9c14a32c1fbd9dd641f722c63f063e350ec71676b08a90d06c0865661cad1'}
+  - {seq: 0, filename: KR6d0234_000.yaml, hash: 'sha256:67975638c194affbe1d988e3750f340043cd1b8fbc7248fe123cf18b2f611090'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0234_000.markers.yaml, hash: 'sha256:31b849132f4960561c0f658075ed09e6cf11c016670bfee5227ebb1c71640a02'}
+  - {seq: 0, role: markers, filename: assets/KR6d0234_000.markers.yaml, hash: 'sha256:f869d8858ac9c3013805fff4d81241c5e57fc522b200043ad0a40bff883f87ff'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6d0234_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 958-A 圓頓宗眼(并序)
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0234_X_000-mulu-2
     span:
-    - front
+    - body
     - 278
     - 278
   label: 圓頓宗眼目次
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0234_X_000-mulu-3
     span:
-    - front
+    - body
     - 304
     - 304
   label: 宗眼
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0234_X_000-mulu-4
     span:
-    - front
+    - body
     - 1346
     - 1346
   label: 原心
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0234_X_000-mulu-5
     span:
-    - front
+    - body
     - 1565
     - 1565
   label: 究性
@@ -79,7 +79,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0234_X_000-mulu-6
     span:
-    - front
+    - body
     - 1880
     - 1880
   label: 明道
@@ -89,7 +89,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0234_X_000-mulu-7
     span:
-    - front
+    - body
     - 2358
     - 2358
   label: 窮徧
@@ -99,7 +99,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0234_X_000-mulu-8
     span:
-    - front
+    - body
     - 2601
     - 2601
   label: 談具
@@ -109,7 +109,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0234_X_000-mulu-9
     span:
-    - front
+    - body
     - 2908
     - 2908
   label: 所傳
@@ -119,7 +119,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0234_X_000-mulu-10
     span:
-    - front
+    - body
     - 3592
     - 3592
   label: 三觀
@@ -129,7 +129,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0234_X_000-mulu-11
     span:
-    - front
+    - body
     - 5057
     - 5057
   label: 正宗
@@ -139,13 +139,13 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0234_X_000-mulu-12
     span:
-    - front
+    - body
     - 5421
     - 5421
   label: 修性
   type: mulu
   level: 1
-hash: sha256:ddbb5cd7fbb090e323a4ee4f40fe34e162eba7a7c0a0bd3e0742da6c3b3b1386
+hash: sha256:33004d7d2990743a81bf9e88d35c0b4949658698ebe1d0da0232c49f81b08b1a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
